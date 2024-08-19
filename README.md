@@ -1,1 +1,2 @@
-This is a basic recipe website project, coded in HTML and a bit of CSS. 
+This is a basic recipe website project, coded in HTML. I added a bit of CSS, even though it is not required for this assignment under The Odin Project. 
+My personal goal is to learn how to use Git properly in Linux and figure out how to troubleshoot when problems arise. 
